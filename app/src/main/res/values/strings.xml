@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Navegação com Intents</string>
+    <string name="button_main_title">Ir para a Segunda Activity</string>
+    <string name="tv_mainactivity_title">Main Activity</string>
+    <string name="tv_secondaryactiviy_title">Secondary Activity</string>
+    <string name="button_seconday_activity_title">Voltar para a primeira activity</string>
+</resources>
